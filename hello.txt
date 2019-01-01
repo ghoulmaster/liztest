@@ -2,3 +2,14 @@ goodbye, git
 this is working branch
 
 changing local master to create a problem
+
+this is mark
+
+
+This is new
+
+conflict time
+
+
+change to hello
+
